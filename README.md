@@ -1,11 +1,30 @@
 # rockpaperscissors
 
 
+This is a command line program of the widespread game rock paper scissors ("Schere, Stein, Papier"). 
+The program lets the user pick a symbol. The computer will pick a symbol randomly. 
 
+After the winner is determined the user can play another round of rock paper scissors or leave. 
+
+
+## Download & Run
+You can download this repo by 
+
+`git clone https://github.com/BernardEpp/rockpaperscissors.git`
+
+To run the application open a terminal and navigate to the rockpaperscissors directory. 
+Depending on your system and the java sdk you can execute the following:
+
+1. Compile first:
+
+`javac -classpath  src/com/bernardepp/Main.java -d out/rockpaperscissors`
+
+2. Execute the bytecode.
+
+`java -classpath  /path/to/the/project/rockpaperscissors/out/rockpaperscissors com.bernardepp.Main`
 
 
 ### Hint
-
-%Men tend to use rock especially on the first two tries (https://arxiv.org/abs/1404.5199)
+Computers can't be fooled but men tend to use stone the most: https://arxiv.org/abs/1404.5199.
 
 
