@@ -17,7 +17,7 @@ Depending on your system and the java sdk you can execute the following:
 
 1. Compile first:
 
-`javac -classpath  src/com/bernardepp/Main.java -d out/rockpaperscissors`
+`javac src/com/bernardepp/Main.java -d out/rockpaperscissors`
 
 2. Execute the bytecode.
 
