@@ -1,7 +1,7 @@
 # rockpaperscissors
 
 
-This is a command line program of the widespread game rock paper scissors ("Schere, Stein, Papier"). 
+This is a command line program of the widespread game rock-paper-scissors ("Schere, Stein, Papier" or RPS). 
 The program lets the user pick a symbol. The computer will pick a symbol randomly. 
 
 After the winner is determined the user can play another round of rock paper scissors or leave. 
@@ -12,8 +12,8 @@ You can download this repo by
 
 `git clone https://github.com/BernardEpp/rockpaperscissors.git`
 
-To run the application open a terminal and navigate to the rockpaperscissors directory. 
-Depending on your system and the java sdk you can execute the following:
+To run the application, open a terminal and navigate to the rockpaperscissors directory. 
+Depending on your system and the java sdk (java 11 recommended) you can execute the following:
 
 1. Compile first:
 
